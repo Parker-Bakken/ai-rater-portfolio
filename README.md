@@ -98,4 +98,5 @@ If present, these folders support a rater ops workflow:
 
 ## Contact
 - GitHub: https://github.com/Parker-Bakken
-- (Add email / LinkedIn here if you want fast recruiter contact.)
+- LinkedIn: linkedin.com/in/parkerbakken
+- Email: Parkerbakken117@gmail.com
